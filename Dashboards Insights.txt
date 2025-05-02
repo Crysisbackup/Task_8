@@ -1,0 +1,11 @@
+Dashboards Insights:
+
+1) Overall 91.8% Attendance, 10% WFH and 1.1% SL 
+2) Monthly Slicers
+	a) April 94%,  9.1% WFH and 0.4% SL
+	b) May 89.7% 11.2% WFH and 1.7% SL
+	c) June 91.7%, 9.5% WFH and 1.2% SL
+
+ 
+3) Highest SL% on Monday
+4) Friday has Highest WFH%
